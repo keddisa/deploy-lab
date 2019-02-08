@@ -1,0 +1,9 @@
+{
+    "name": "express-HelloWorld",
+    "description": "Hello World Node Express web application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.16.2"
+    }
+}
