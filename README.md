@@ -58,7 +58,8 @@ local computer. **NOTE** not a required step to complete the lab.
   * Create application and deployment group (this is what will deploy to your EC2 instances with the tags that match the deployment group)
     * Instructions (skip step 14 and 15): https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-application.html
 
-
+  * Deploy the application:
+    * https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-deploy-application.html
 
 
 
